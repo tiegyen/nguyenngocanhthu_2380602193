@@ -1,4 +1,4 @@
-from Student import Student
+from nguyenngocanhthu_2380602193.lab_01.ex04.Student import Student
 
 class StudentManagement:
     
